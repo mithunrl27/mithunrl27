@@ -4,7 +4,6 @@
     </picture>
   </p>
 <h1 align="center">Hi 👋, I'm Mithun</h1>
-<h3 align="left">💫 About Me:</h3>
 <h3 align="center">Aspiring Python & Machine Learning Developer | Data Analyst</h3>
 
 ---
