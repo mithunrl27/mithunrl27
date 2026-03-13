@@ -13,7 +13,7 @@
 - 📊 Completed Data Analyst Projects:
    - 🎬 **Movie Rating Analysis** (Python, Pandas, Data Visualization)
    - 📈 **Superstore Sales Dashboard** (Power BI, Data Cleaning, Business Insights)
-- 💬 Ask me about **Python, SQL, Power BI**
+- 💬 Ask me about **Python, SQL, Power BI ,Machine Learning**
 - ⚡ Fun fact: Hot water freezes faster than cold water (Mpemba Effect!)
 
 ---
